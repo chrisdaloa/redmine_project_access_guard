@@ -1,0 +1,16 @@
+# Local config overrides (never commit real group IDs or project slugs)
+config.local.yml
+
+# macOS
+.DS_Store
+
+# Editor/IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Ruby
+*.gem
+*.rbc
+.bundle/

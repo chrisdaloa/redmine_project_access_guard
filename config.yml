@@ -1,0 +1,7 @@
+# Identifier (slug) of the Redmine project to protect.
+# Find it in Administration > Projects > (your project) > Identifier field.
+project_identifier: "my_secret_project"
+
+# ID of the Redmine group whose members are allowed access.
+# Find it in Administration > Groups > (your group) — the ID is in the URL.
+group_id: 5
